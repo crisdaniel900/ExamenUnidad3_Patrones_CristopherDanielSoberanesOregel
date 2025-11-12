@@ -1,0 +1,7 @@
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\bin\Debug\ReproductorMusicaDecorador.exe.config
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\bin\Debug\ReproductorMusicaDecorador.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\bin\Debug\ReproductorMusicaDecorador.pdb
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\obj\Debug\ReproductorMusicaDecorador.csproj.AssemblyReference.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\obj\Debug\ReproductorMusicaDecorador.csproj.CoreCompileInputs.cache
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\obj\Debug\ReproductorMusicaDecorador.exe
+C:\Users\luigu\OneDrive\Documentos\2025\7mo Semestre\Patrones\U3\ReproductorMusicaDecorador\ReproductorMusicaDecorador\obj\Debug\ReproductorMusicaDecorador.pdb
